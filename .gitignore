@@ -1,0 +1,2 @@
+#Add list of files/folders which shouldn't go inside repository
+node_modules/*
